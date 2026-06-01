@@ -638,6 +638,15 @@ We officially thank the following contributors for their help in making this rep
 - [@iradoweck](https://github.com/iradoweck)
 - [@liujuanjuan1984](https://github.com/liujuanjuan1984)
 - [@ndesv21](https://github.com/ndesv21)
+- [@AnthonyFirth](https://github.com/AnthonyFirth)
+- [@hogan-yuan](https://github.com/hogan-yuan)
+- [@kavinduUdhara](https://github.com/kavinduUdhara)
+- [@KyleMillion](https://github.com/KyleMillion)
+- [@morsechimwai](https://github.com/morsechimwai)
+- [@sahilaghara1911](https://github.com/sahilaghara1911)
+- [@SenSei2121](https://github.com/SenSei2121)
+- [@stefan-kp](https://github.com/stefan-kp)
+- [@therohitdas](https://github.com/therohitdas)
 
 ## Star History
 
